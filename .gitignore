@@ -1,0 +1,18 @@
+# 编译产物
+*.o
+*.obj
+*.exe
+a.out
+*.out
+*.a
+*.so
+*.dll
+
+# 构建目录
+build/
+cmake-build-*/
+
+# 编辑器/系统
+.vscode/
+.idea/
+.DS_Store
